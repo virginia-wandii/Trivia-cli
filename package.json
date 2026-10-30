@@ -1,0 +1,23 @@
+{
+  "name": "trivia-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virginia-wandii/Trivia-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virginia-wandii/Trivia-cli/issues"
+  },
+  "homepage": "https://github.com/virginia-wandii/Trivia-cli#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
